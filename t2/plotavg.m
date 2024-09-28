@@ -1,0 +1,1 @@
+plot(kzlist,Pavglist)
